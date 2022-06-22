@@ -1,0 +1,25 @@
+^4.17.21
+^ - installs latest minor versionof package when npm install in executed
+eg: 
+    "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+
+~4.17.21
+~ - installs latest patch version of package when npm install is executed
+eg:
+    "devDependencies": {
+    "lodash": "~4.17.21"
+  }
+4.17.21
+--> no version is changed when package is executed
+eg:
+    "devDependencies": {
+    "lodash": "4.17.21"
+  }
+*
+--> latest version of the package is installed when executed
+eg:
+    "devDependencies": {
+    "lodash": "*"
+  }
