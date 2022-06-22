@@ -1,0 +1,5 @@
+commands :
+npm help --> help command
+npm instaal -h ---> shows help to install
+npm help -search update 
+npm help update 
