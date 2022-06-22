@@ -1,0 +1,16 @@
+shortcuts for npm commands:
+
+* package.json with default 
+npm init -y
+
+* installation registry in package.json
+npm i lodash -S 
+
+* save moment as dev dependency
+npm i moment -D 
+
+--global --> -g 
+--version --> -v 
+
+for more shortcuts check out website:
+docs.npmjs.com/misc/config
