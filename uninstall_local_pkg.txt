@@ -1,0 +1,3 @@
+cmd: 
+npm uninstall moment --save -->removes dependencies from package.json
+npm uninstall moment --save-dev  -->removes dev dependencies from package.json
