@@ -1,0 +1,9 @@
+cmd to install local package:
+npm install <package_name>
+
+to install in folder open created folder->open cmd from the folder->in cmd type npm install moment
+this will install moment folder in the created folder
+but this will not be registered in package.json file
+to save the registry of installed package use cmd: npm install <packagename> --save
+
+npm install lodash --save-dev -> this is dev dependency
