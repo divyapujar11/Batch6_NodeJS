@@ -1,0 +1,25 @@
+V8 engine:
+* V8 engine is google's opensource high-performance js engine, written in c++ and used in google chrome
+* V8 can run standalone, or can be embedded into any c++ application
+* V8 engine converts JS code into machine code
+
+JavaScript engine:
+* computer do not understand JS code
+* A JS engine takes JS and converts it into something which machine can understand
+          
+          JavaScript to Machine Code:
+             |      JS           |
+             |     C++           |
+             |  Assembly Language|
+             |  Machine code     |
+
+* Node.js is written in c++
+* at the heart of node.js is the v8 engine
+* the v8 engine converts js into machine code
+
+                Node.js with V8:
+        |             JS              |
+        |c++|       Node.js        |V8|
+        |        Machine Code         |
+
+* when js code is run through node.js, the code is passed to v8 and v8 converts the c++ code to machine code
