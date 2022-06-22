@@ -1,8 +1,0 @@
-Function Expression is the FUNCTION keyword which is used to define a function inside an Expression.
-
-var sayBye = function(){
-    console.log('Byeee')
-}
-* function without any name is called anonymous function 
-
-
