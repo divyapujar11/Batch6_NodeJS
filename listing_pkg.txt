@@ -1,0 +1,12 @@
+cmd:
+npm list --depth 1
+npm list --depth 0
+
+npm list command outputs installed packages and their dependencies of curent project as a tree structure
+npm list --depth <num> limits the depth of the dependencies
+
+if we want list of globlal files the cmd:
+
+npm list --global true 0 
+
+is used

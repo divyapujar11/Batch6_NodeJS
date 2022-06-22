@@ -16,6 +16,11 @@
     "url": "https://github.com/divyapujar11/Batch6_NodeJS/issues"
   },
   "homepage": "https://github.com/divyapujar11/Batch6_NodeJS#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
 }
-
