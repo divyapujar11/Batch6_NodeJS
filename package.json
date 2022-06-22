@@ -5,8 +5,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "divya",
   "license": "ISC",
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyapujar11/Batch6_NodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/divyapujar11/Batch6_NodeJS/issues"
+  },
+  "homepage": "https://github.com/divyapujar11/Batch6_NodeJS#readme",
   "description": ""
 }
