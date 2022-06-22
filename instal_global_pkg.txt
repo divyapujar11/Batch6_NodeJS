@@ -1,0 +1,6 @@
+to install global packages -g is used in cmd
+
+cmd:
+npm install moment -g 
+
+moment --> moment module is used for prasing manipulating,vslidating and displaying date and time in js

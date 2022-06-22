@@ -1,0 +1,7 @@
+cmd:
+npm uninstall moment -g --> uninstalls moment modules globally
+
+alias of uninstall :
+npm remove moment -g
+npm rm moment -g
+npm un moment -g
