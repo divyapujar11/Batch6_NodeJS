@@ -1,0 +1,10 @@
+what is node.js?
+=>  * A platform which allows us to run js on a computer/server
+    * Read, delete and update files
+    * Easily communication with a database
+
+why node.js is popular?
+=>  * its uses js
+    * it is very fast( runs on the v8 machine and uses non-blocking code)
+    * Huge ecosystem of open source packages(npm)
+    * Great for real-time services(like chats)
