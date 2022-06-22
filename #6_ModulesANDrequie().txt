@@ -1,0 +1,7 @@
+Module:
+* module are blocks of encapsulated code that communication with external application basis of their related functionality
+* Modules can be single file or multiple files/folders
+
+require():
+* it built-in function that is used to insert modules exist in seperate file
+* the basic functionality of 'require()' is it reads js file, executes the file and proceeds to return the exports obj 
