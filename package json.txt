@@ -1,0 +1,13 @@
+package json file manages dependencies and contains scripts which initial build
+format of package json file which contains :
+name
+version
+descriptions
+main
+scripts
+test
+author
+license
+
+
+command : npm init
