@@ -1,0 +1,9 @@
+npm update lodash --save  ---->updates lodash to latest version 
+
+npm update --dev --save-dev   -----> updates dev dpendencies to latest version
+
+npm update ----> updates all dependencies to latest version
+
+npm update -g -----> updates globally packages
+
+npm install npm@latest -g ---> installs npm to latest version globally
