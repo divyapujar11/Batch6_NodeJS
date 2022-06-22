@@ -1,0 +1,21 @@
+Global Object:
+
+* Global objects are the objects that are available in all modules
+* they are built-in objects that are part of teh JavaScripts and can be used direct;y in the application without importing any particular module
+
+* some Global Objects are:
+    * console
+    * setInterval
+    * setTimeout
+    * clearInterval
+    * __dirname
+    * __filename
+
+* eg: 
+    
+    * console.log() --> used to print message
+    * setInterval() --> sets callback function at intervals
+    * setTimeout() --> run callback function after mentioned delay in ms
+    * console.log(__dirname) --> prints directory address
+    * console.log(__filename) --> prints directory with current filename
+
