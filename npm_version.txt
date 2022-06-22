@@ -1,0 +1,16 @@
+cmd:
+npm install lodash --save
+
+we get :
+"devDependencies": {
+    "lodash": "^4.17.21" --> version
+  }
+
+4. --> major version
+17. --> minor version
+21  --> patch version
+
+npm install lodash@3.3.0 --save -->to install specific version <pkgName@version> is used
+eg: npm install lodash@4.14 --> installs latest patch version of 4.14 
+    likewise npm install lodash@4 --> install latest minor version of 4
+    
