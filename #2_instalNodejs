@@ -1,2 +1,4 @@
 install node.js
 check version --> node -v
+
+run js file: node <filename>.js/<filename>
