@@ -1,0 +1,18 @@
+npm scripts:
+* scripts is property of package.json file that suppoerts number of built-in scripts
+* to run scripts we can use commands : npm <scripts-name> , npm run <scripts-name>
+* package.json conatins various sections in that scripts is one of them which allows you to write npm script
+* "npm run" cmd shows number of scripts present in the file
+
+eg:
+    "scripts": {
+    "start" : "node app.js"
+  }
+
+  * start is scripts which runs app.js file when the "npm start" is executed
+  * start shows entry point to the project is app.js
+  * In some project we can see there will index.js as entry point 
+        *eg: "scripts": {
+                "start" : "nose index.js"
+                }
+
