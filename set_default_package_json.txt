@@ -1,0 +1,12 @@
+change default setting in package.json
+commands:
+for setting defaults:
+npm config set init-author-name "YourName"
+npm set init-license "YourLicense"
+
+for getting defaults:
+npm config get init-author-name
+npm get init-license
+
+for creating package.json with defaults:
+npm init --yes
