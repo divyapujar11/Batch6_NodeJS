@@ -1,0 +1,23 @@
+exporting modules have many patterns. they are:
+*   module.exports.counter=counter
+    module.exports.adder=adder
+    module.exports.pi
+
+*   module.exports.counter = function(arr)
+    module.exports.adder=function(arr)
+    module.exports.pi = 3.142
+
+*   module.exports = {
+    counter:counter,
+    adder:adder,
+    pi:pi
+   }
+
+module.export means making particule module available to other files
+
+Accessing objects from other module:
+*   modPat_1.counter(['shaun','crystal','ryu'])
+    modPat_1.adder(5,6)
+    modPat_1.adder(modPat_1.pi,6)
+
+*   filename.varname
