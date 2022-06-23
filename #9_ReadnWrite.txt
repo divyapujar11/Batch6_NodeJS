@@ -1,0 +1,11 @@
+fs module:
+* it is built-in module called file system
+* All file system operations can have synchronous and asynchronous forms depending upon user requirements
+* One peculiar thing about the fs module is that all the methods are asynchronous by default, but they can also work synchronously by appending Sync
+    eg: readFile() - asynchronous
+        readFileSync() - synchronous
+        writeFile() - asynchronous
+        writeFileSync() - synchronous
+
+readFileSync() - reads the file completely and move to next code, which is blocking code i,e interrupts the execution of further code
+readFile() reads the file in the end without blocking the further code execution i,e this is non-blocking code
