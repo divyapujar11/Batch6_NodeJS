@@ -1,0 +1,13 @@
+event emitter :
+* it is used to handle events
+* to initialize:
+    var eventemitter = new EventEmiiter()
+* some methods 'on' and 'emit'
+    myEmitter.on('someEvent', function(mssg){
+    console.log(mssg)
+    })
+
+    myEmitter.emit('someEvent','the event was emitted')
+
+* emit() is used to trigger an event
+* on() is used to add callback function that is going to be executed when the event is triggered
