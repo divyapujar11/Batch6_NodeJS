@@ -1,0 +1,11 @@
+unlink() --> used to remove files
+mkdir(), mkdirSync() ---> make directory
+rmdir(), rmdirSync() ---> remove directory
+
+eg:
+        var fs = require('fs')
+        fs.mkdirSync('Sample')
+
+        fs.rmdirSync('Sample')
+
+        fs.unlink('WriteMe.txt')
