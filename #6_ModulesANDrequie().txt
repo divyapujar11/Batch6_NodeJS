@@ -5,3 +5,7 @@ Module:
 require():
 * it built-in function that is used to insert modules exist in seperate file
 * the basic functionality of 'require()' is it reads js file, executes the file and proceeds to return the exports obj 
+
+package:
+* a package is a file or directory that is described by a package.json file
+* a package must contain package.json file in order to published to the npm registry
