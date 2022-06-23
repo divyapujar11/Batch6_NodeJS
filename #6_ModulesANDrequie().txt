@@ -8,8 +8,4 @@ require():
 
 package:
 * a package is a file or directory that is described by a package.json file
-<<<<<<< HEAD
 * a package must contain package.json file in order to published to the npm registry
-=======
-* a package must contain package.json file in order to published to the npm registry
->>>>>>> aba2f7761c25e5a4a5fd7c437e9dc193bc45b63b
