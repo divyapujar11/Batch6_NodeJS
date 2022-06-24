@@ -1,0 +1,4 @@
+pipe():
+* method used to connect readable stream to writable stream
+* it is readable stream
+* takes data from read stream and pass it to write stream
