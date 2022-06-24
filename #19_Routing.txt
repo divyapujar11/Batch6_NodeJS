@@ -1,0 +1,3 @@
+Routing:
+* routing defines the way in which the client requests are handles by the application endpoints
+* route is nothing but endpoints
