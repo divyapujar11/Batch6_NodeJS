@@ -1,0 +1,9 @@
+buffers:
+* temporary storage spot for a chunk of data that being transferred from one place to another
+* the buffer is filled with data then passed along
+* transfer small chunks of data at a time
+
+streams:
+* streams are objects that allow developers to read or write data from and to a source in a continuous manner
+* can create streams in nodejs to transfer data
+* streams help in increase performance  
