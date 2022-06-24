@@ -3,3 +3,5 @@ reable stream - allow node js to read data to a stream
 duplex - can read and write to a stream
 
 createReadStream()
+
+callback() - callback function is function passed as argument to the another function 
