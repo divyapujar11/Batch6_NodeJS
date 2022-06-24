@@ -1,0 +1,3 @@
+Json.stringify() :
+* method converts js object to a string
+* when sending data to a web server that data has to be string.
