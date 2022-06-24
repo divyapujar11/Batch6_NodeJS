@@ -1,0 +1,5 @@
+writable streams - allow node js to write data to a stream
+reable stream - allow node js to read data to a stream
+duplex - can read and write to a stream
+
+createReadStream()
