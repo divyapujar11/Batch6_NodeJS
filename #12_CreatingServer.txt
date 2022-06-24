@@ -1,0 +1,8 @@
+                request + request header
+client         <========================>    server
+                response + response header
+
+createServer() - creates a server
+writeHead() - sends response header to the request with content-type and status
+end() - ending the response header with one last msg
+listen() - start the server with port number and ip address
