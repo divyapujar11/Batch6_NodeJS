@@ -1,0 +1,6 @@
+Express :
+* express is a node js web application framework that provides features for building web and mobile apllication.
+* easy and flexible routing system
+* integrates with many templating engines 
+* contains a middleware framework
+* it is module written in js which used for creating web applications/api's
