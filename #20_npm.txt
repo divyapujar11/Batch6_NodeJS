@@ -1,0 +1,4 @@
+node package manager:
+* its is package manager for js platform
+* it helps in installing third-party packages eg: express
+ npm install express
