@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start" : "node app.js"
+    "start": "node app.js"
   },
   "author": "divya",
   "license": "ISC",
@@ -18,6 +18,7 @@
   "homepage": "https://github.com/divyapujar11/Batch6_NodeJS#readme",
   "description": "",
   "dependencies": {
+    "express": "^4.18.1",
     "moment": "^2.29.3"
   },
   "devDependencies": {
