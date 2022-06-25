@@ -1,0 +1,11 @@
+EJS :
+* ejs is embedded javascript templating which is used as template engine in node js
+* templeting engine helps in creating html template with minimal code
+* it is used to inject data into html template and also helps embed javascript in html pages
+* to ejs we need install ejs : npm install ejs 
+
+ejs is set as view engine in nodejs
+* app.set('view engine','ejs)
+
+render() :
+* it is method which sends rendered html string to the client
