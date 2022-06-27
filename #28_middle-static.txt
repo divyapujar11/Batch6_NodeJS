@@ -1,0 +1,9 @@
+middleware function:
+* function that acess to the request object, the response object, and the next middleware function in the application's req-res cycle
+* middleware function can acess request, response{req,res} and next {next()} middleware function
+
+
+static file:
+* they are typically such as scripts, css files, images etc.. that are not server generated but must be passed to the browser when requested
+* eg: app.use('/assets', express.static('stuff'))
+      in html: <link href = "/assets/styles.css" rel="'stylesheet" type="text/css"/>r
