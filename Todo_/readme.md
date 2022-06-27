@@ -1,1 +1,0 @@
-This folder contains files and folder TO-DO application
